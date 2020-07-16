@@ -1,0 +1,17 @@
+body {background-image: url(assets/pokeBG.png)}
+
+th {font-size: 25px;}
+
+h1 {
+font-weight: 500;
+margin-top: 20px;}
+
+.container {text-align: center;}
+
+h5 {font-weight: 400;
+margin: 15px;}
+
+#formGetRandom{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
